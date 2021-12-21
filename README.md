@@ -6,7 +6,9 @@
 https://steamcommunity.com/sharedfiles/filedetails/?id=2636924471
 
 
-*下載繁體中文化檔案 (https://drive.google.com/drive/folders/1rIRFOLnMvWGTBNrV-k7E4GZFIhiKWHKQ?usp=sharing)
+*下載繁體中文化檔案 
+https://github.com/DevChu/SteamGloomhavenTC/releases/tag/v10327924696
+
 MarcellusSC-Regular SDF Atlas.dat
 MarcellusSC-Regular SDF.txt
 Sarala-Regular SDF Atlas.dat
